@@ -1,0 +1,24 @@
+{
+   fullName: cyril j varghese,
+   email: cyrilvarghese595@gmail.com,
+   username: cyril,
+   password: abel,
+}
+{
+   fullName: abel j varghese,
+   email: abelvarghese595@gmail.com,
+   username: abel,
+   password: cyril,
+}
+{
+   fullName: jeffi don,
+   email: jeffi595@gmail.com,
+   username: jeffi,
+   password: jeffi,
+}
+{
+   astha->pasword->astha
+}
+{
+   atishay->atishay
+}
